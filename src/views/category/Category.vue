@@ -3,8 +3,13 @@
 </template>
 
 <script>
+import BScroll from 'better-scroll'
+
 export default {
-    name:'Category'
+    name:'Category',
+    created: {
+      
+    }
 }
 </script>
 
